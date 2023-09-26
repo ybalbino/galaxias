@@ -1,0 +1,31 @@
+
+
+java:S4165'"bRemove this useless assignment; "nome" already holds the assigned value along all execution paths.(÷¥Æ8ªĞ²­1
+‚
+java:S4165*"eRemove this useless assignment; "galaxia" already holds the assigned value along all execution paths.(¡‡‡8¦Ğ²­1
+Š
+java:S4165,"hRemove this useless assignment; "inventario" already holds the assigned value along all execution paths.(Úîÿşÿÿÿÿ8¬Ğ²­1
+€
+java:S4165("cRemove this useless assignment; "idade" already holds the assigned value along all execution paths.(ğ½Í‘8§Ğ²­1
+
+java:S4165)"dRemove this useless assignment; "genero" already holds the assigned value along all execution paths.(Îî„Ñ8¤Ğ²­1
+‚
+java:S4165""eRemove this useless assignment; "galaxia" already holds the assigned value along all execution paths.(¡‡‡8€Ë®­1
+
+java:S4165+"dRemove this useless assignment; "traira" already holds the assigned value along all execution paths.(–ÌŠ©8¨Ğ²­1
+M
+java:S1172"+Remove this unused method parameter "base".(Úæ£Óøÿÿÿÿ8…Ë®­1
+Q
+java:S1656,"/Remove or correct this useless self-assignment.(Úîÿşÿÿÿÿ8Âª±­1
+L
+java:S1656'"/Remove or correct this useless self-assignment.(÷¥Æ8òñ°­1
+L
+java:S1656)"/Remove or correct this useless self-assignment.(Îî„Ñ8¶Ğ²­1
+L
+java:S1656+"/Remove or correct this useless self-assignment.(–ÌŠ©8‰Ë®­1
+L
+java:S1656""/Remove or correct this useless self-assignment.(¡‡‡8åƒ°­1
+L
+java:S1656*"/Remove or correct this useless self-assignment.(¡‡‡8èƒ°­1
+L
+java:S1656("/Remove or correct this useless self-assignment.(ğ½Í‘8çƒ°­1

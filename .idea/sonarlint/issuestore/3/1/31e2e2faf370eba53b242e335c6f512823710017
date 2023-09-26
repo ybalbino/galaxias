@@ -1,0 +1,20 @@
+
+r
+java:S1192="UDefine a constant instead of duplicating this literal "WHERE nome_rebelde='" 3 times.(‘æ¢ö8²Ê½’­1
+|
+java:S1488M"_Immediately return this expression instead of assigning it to the temporary variable "rebelde".(ÂÏ¢ş8´Ê½’­1
+L	java:S106"+Replace this use of System.out by a logger.(ÖóÂÒûÿÿÿÿ8ĞÊ½’­1
+G	java:S106%"+Replace this use of System.out by a logger.(œª²Ü8ÓÊ½’­1
+G	java:S1064"+Replace this use of System.out by a logger.(´Œ£•8×Ê½’­1
+L	java:S1066"+Replace this use of System.out by a logger.(ˆá¤Àÿÿÿÿÿ8ØÊ½’­1
+L	java:S106@"+Replace this use of System.out by a logger.(ÖÖøûÿÿÿÿ8ÚÊ½’­1
+L	java:S106C"+Replace this use of System.out by a logger.(ÑèÅèúÿÿÿÿ8ÛÊ½’­1
+8
+java:S3626f"Remove this redundant jump.(ûÁİ…8ßÊ½’­1
+8
+java:S3626i"Remove this redundant jump.(ûÁİ…8ßÊ½’­1
+G	java:S106u"+Replace this use of System.out by a logger.(Â‡ŒÚ8êÊ½’­1
+G	java:S106x"+Replace this use of System.out by a logger.(‹ì«ÿ8ëÊ½’­1
+M	java:S106…"+Replace this use of System.out by a logger.(¶³‰Ôøÿÿÿÿ8îÊ½’­1
+M	java:S106Å"+Replace this use of System.out by a logger.(æ€ù´øÿÿÿÿ8÷Ê½’­1
+M	java:S106Æ"+Replace this use of System.out by a logger.(ĞÈÛ¡úÿÿÿÿ8øÊ½’­1
